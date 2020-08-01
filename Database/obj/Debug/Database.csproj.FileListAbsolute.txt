@@ -1,0 +1,6 @@
+C:\Users\Pedro\Desktop\Examen_Final\Database\bin\Debug\Database.dll
+C:\Users\Pedro\Desktop\Examen_Final\Database\bin\Debug\Database.pdb
+C:\Users\Pedro\Desktop\Examen_Final\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Examen_Final\Database\obj\Debug\Database.dll
+C:\Users\Pedro\Desktop\Examen_Final\Database\obj\Debug\Database.pdb
+C:\Users\Pedro\Desktop\Examen_Final\Database\obj\Debug\Database.csprojAssemblyReference.cache

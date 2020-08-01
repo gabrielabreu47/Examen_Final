@@ -1,0 +1,9 @@
+C:\Users\Pedro\Desktop\Examen_Final\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Examen_Final\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Examen_Final\Services\bin\Debug\Services.dll
+C:\Users\Pedro\Desktop\Examen_Final\Services\bin\Debug\Services.pdb
+C:\Users\Pedro\Desktop\Examen_Final\Services\bin\Debug\Database.dll
+C:\Users\Pedro\Desktop\Examen_Final\Services\bin\Debug\Database.pdb
+C:\Users\Pedro\Desktop\Examen_Final\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Examen_Final\Services\obj\Debug\Services.dll
+C:\Users\Pedro\Desktop\Examen_Final\Services\obj\Debug\Services.pdb
